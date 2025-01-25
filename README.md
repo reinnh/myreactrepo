@@ -1,6 +1,5 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Portfolio%20Website%20V2&fontSize=80&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -10,9 +9,6 @@
   <a href="#tech-stack">Tech Stack</a>
 </p>
 
-[![GitHub license](https://img.shields.io/github/license/lohitkolluri/Portfolio?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fportfolio-lohit.vercel.app)](https://portfolio-lohit.vercel.app)
-[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 
 <p align="center">A modern, responsive portfolio website showcasing professional experience, projects, and skills. Built with React, Vite, and Tailwind CSS, featuring smooth animations and interactive 3D elements. ✨</p>
 
@@ -44,42 +40,6 @@ mindmap
 ```
 
 </div>
-
-## 🚀 Demo
-
-Experience the live portfolio at [https://portfolio-lohit.vercel.app](https://portfolio-lohit.vercel.app)
-
-## 🛠️ Installation
-
-1️⃣ Clone the repository:
-
-```bash
-git clone https://github.com/lohitkolluri/Portfolio-Website
-```
-
-2️⃣ Navigate to project directory:
-
-```bash
-cd Portfolio-Website
-```
-
-3️⃣ Install dependencies:
-
-```bash
-npm install
-```
-
-4️⃣ Run development server:
-
-```bash
-npm run dev
-```
-
-5️⃣ Open in browser:
-
-- Visit [http://localhost:3000](http://localhost:3000)
-
-## 💻 Tech Stack
 
 <table align="center">
   <tr>
@@ -126,12 +86,3 @@ npm run dev
 - ✉️ Email Integration
   - Contact form using EmailJS
 
-## 📄 License
-
-<div align="center">
-
-MIT License © [Lohit Kolluri](LICENSE)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
