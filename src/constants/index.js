@@ -101,7 +101,7 @@ export const projects = [
       { name: "React Portfolio by reingen", color: "yellow-text-gradient" },
     ],
     image: image,
-    source_code_link: "https://github.com/lohitkolluri/WeatherPedia",
+    source_code_link: "https://reinnh.github.io/francis-website/",
   },
   {
     name: "Reingen initial portfolio",
@@ -113,7 +113,7 @@ export const projects = [
       { name: "Javascript", color: "pink-text-gradient" },
     ],
     image: reinhard,
-    source_code_link: "https://github.com/lohitkolluri/lohitkolluri.github.io",
+    source_code_link: "https://github.com/reinnh/myreactrepo.git",
   },
   {
     name: "PhotoGallery Showcase",
@@ -126,6 +126,6 @@ export const projects = [
     ],
     image: photo,
     source_code_link:
-      "https://github.com/lohitkolluri/mental_health_fitness_tracker",
+      "https://reinnh.github.io/francis-website/",
   }
 ]
